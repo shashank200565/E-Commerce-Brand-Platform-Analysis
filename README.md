@@ -1,1 +1,2 @@
-# E-Commerce-Brand-Platform-Analysis
+# E-Commerce-Brand-Platform-Analysis\
+I made this project as a part of the course i did on python for Data Science and Machine Learning.In this project i used a dataset relating to Customers using  an Ecommerce platform. This dataset contained features like , Address , Avatar , Avg. Session Length , Time on App , Time on Website ,  Length of Membership ,  Yearly Amount Spent. Using these features i made a Linear Regression model that helps the company make a decision on whether they need to focus more on their app or  their website based on how much money one spends every year.
